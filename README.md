@@ -1,2 +1,0 @@
-# csdedu
-teaching materials
